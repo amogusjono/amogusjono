@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+ 🔭 I’m currently working on a website (amogusjono.github.io)
+- 🌱 I’m currently learning HTML5
+- 👯 I’m looking to collaborate on i dont know
+- 🤔 I’m looking for help with html
+- 💬 Ask me about HTML and Microbit
+- 📫 How to reach me: amogusjono@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: coding is the best!
+
 <!--
 **amogusjono/amogusjono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
